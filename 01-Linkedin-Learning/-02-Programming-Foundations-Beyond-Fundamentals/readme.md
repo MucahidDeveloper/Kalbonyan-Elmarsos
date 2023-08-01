@@ -4,4 +4,4 @@
 ---
 [Course Link](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/?resume=false)
 <br>[Preview Certificate](https://www.linkedin.com/learning/certificates/ab77f3ee22d34dd7a49936ee3649757412fb39e877bd5fd8015b0994c9688111)
-![image](https://github.com/MucahidDeveloper/Kalbonyan-Elmarsos/assets/127043807/1fad2ff4-a873-4d40-b5b9-fb1d58ca86da)
+<br>![image](https://github.com/MucahidDeveloper/Kalbonyan-Elmarsos/assets/127043807/1fad2ff4-a873-4d40-b5b9-fb1d58ca86da)
