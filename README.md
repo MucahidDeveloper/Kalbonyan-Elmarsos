@@ -96,7 +96,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # Projects
 
-![35%](https://progress-bar.dev/0/?title=Done)
+![35%](https://progress-bar.dev/35/?title=Done)
 |status| Project  | Technologies | Repository                                    | Demo |
 | ---  | -------- | ------------ | --------------------------------------------- | ---- |
 | [Done]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo]() |
