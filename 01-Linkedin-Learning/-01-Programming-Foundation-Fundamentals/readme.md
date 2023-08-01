@@ -16,3 +16,4 @@
 -------------------------------
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
 <br>[Preview Certificate](https://www.linkedin.com/learning/certificates/f1619fc013234f23c7f6b8e9c3dbba5414ada7b8bacfa13f7f10f54752d9dffc?trk=share_certificate)
+![image](https://github.com/MucahidDeveloper/Kalbonyan-Elmarsos/assets/127043807/21560937-8fdf-453e-94b0-02d22f820b5f)
