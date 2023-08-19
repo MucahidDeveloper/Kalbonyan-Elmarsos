@@ -2,7 +2,7 @@
 
 ---
 
-## Projects
+<!-- ## Projects
 
 ### Calculator (S6)
 
@@ -38,12 +38,13 @@
 
 ## Code
 
-- [Code](Code)
+- [Code](Code) -->
 - [Assignments](Code/assignments/)
 
 ---
 
 [Course-Link](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+[Certificate](https://www.udemy.com/certificate/UC-8e55676c-b0f5-4af8-87a7-36d5fb7539a1/)
 <br>
+![image](https://github.com/MucahidDeveloper/Kalbonyan-Elmarsos/assets/127043807/f0ebf3fa-b20f-4348-88ae-9c8030215b22)
