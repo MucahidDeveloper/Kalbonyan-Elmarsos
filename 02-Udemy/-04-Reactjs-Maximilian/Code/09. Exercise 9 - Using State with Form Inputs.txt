@@ -1,0 +1,24 @@
+import React, { useState } from 'react';
+
+import './styles.css';
+
+// don't change the Component name "App"
+export default function App() {
+    const [message, messageState] = useState("Invalid message");
+    const changeHandler = (event) => {
+        let value = event.target.value;
+        if (value.trim().length < 3) {
+            messageState("Invalid message");
+        } else {
+            messageState("Valid message");
+        }
+    }
+    
+    return (
+        <form>
+            <label>Your message</label>
+            <input type="text" onChange={changeHandler}/>
+            <p>{message}</p>
+        </form>
+    );
+}
